@@ -21,6 +21,11 @@ nav{
   margin-left: 70px;
 }
 
+.links a:hover{
+  border-bottom: 1px solid #333;
+}
+
+
 .all-in-nav{
   margin-left: 60px;
   display: flex;
@@ -68,7 +73,7 @@ nav{
 
 .footer{
   width: 100%;
-  height: ;
+  height: 1000px;
   padding-left: 100px;
   padding-right: 100px;
   margin-top: 300px ;
@@ -82,4 +87,45 @@ nav{
 .footer-lorem-p{
   color: #404852;
   font-size: 14px;
+}
+
+.text{
+  margin-left: 130px;
+}
+
+.div-numbers{
+  width: 600px;
+  height: 1100px;
+  /* border: 2px solid   red; */
+  margin-left: 1000px;
+  margin-top: -200px;
+}
+
+.div-numbers h4{
+  font-weight: 600;
+}
+
+.online-shop{
+  width: 600px;
+  height: 150px;
+  border-bottom: 1px solid gray;
+  margin-bottom: 70px;
+}
+
+.online-shop img{
+  cursor: pointer;
+
+}
+
+.online-shop1 img{
+  cursor: pointer;
+
+}
+
+
+.online-shop{
+  width: 600px;
+  height: 150px;
+  border-bottom: 1px solid gray;
+  /* margin-bottom: 70px; */
 }
