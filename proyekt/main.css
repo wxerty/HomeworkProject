@@ -1,0 +1,37 @@
+.bari{
+    border: 1px solid black;
+    width: 1690px;
+    height: 100px;
+    background-color: black;
+    
+}
+
+#logo{
+    width: 50px;
+    margin-top:20px;
+    margin-left: 30px;
+    position: absolute;
+    
+}
+
+#mainn{
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+.fott{
+    border: 1px solid black;
+    width: 1690px;
+    height: 200px;
+    position: absolute;
+    background: #000;
+    margin-top: 100px;
+}
+
+#log{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 800px;
+}
